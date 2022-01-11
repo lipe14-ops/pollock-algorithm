@@ -7,7 +7,7 @@
 * just for fun and to show that programming is art.
 
 ### About :anchor::
-* **pollock's algorithm** generates a completely random image art.
+* **pollock's algorithm** generates a completely random art.
 
 ### Requirements :hammer_and_wrench::
 * `python 3+ version`
